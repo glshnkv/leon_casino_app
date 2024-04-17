@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85470061051",
+    "project_id": "leon-casino-app",
+    "storage_bucket": "leon-casino-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85470061051:android:44b08eaada9d80b4a62b5e",
+        "android_client_info": {
+          "package_name": "com.leoni.game.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6aYytjclVqhktwz_3-2l21r10p3xJEyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
